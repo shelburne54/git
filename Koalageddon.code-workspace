@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../Koalageddon"
+		},
+		{
+			"path": "../WinReg"
+		},
+		{
+			"path": "../tinyxml2"
+		},
+		{
+			"path": "../spdlog"
+		},
+		{
+			"path": "../PolyHook_2_0"
+		},
+		{
+			"path": "../json"
+		},
+		{
+			"path": "../cpr"
+		},
+		{
+			"path": "../preprocessor"
+		},
+		{
+			"path": "../clang"
+		},
+		{
+			"path": "../powerclang-windows-x64"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
